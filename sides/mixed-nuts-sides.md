@@ -1,10 +1,10 @@
-#Mixed Nuts
+# Mixed Nuts
 
-##Ingredients
+## Ingredients
 - Almonds
 - chashew
 - walnuts
-
+- seasoning with salt chillies
   
 ## Instructions
 -Serve it in a bowl, have fun!
