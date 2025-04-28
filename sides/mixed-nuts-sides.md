@@ -7,4 +7,4 @@
 - seasoning with salt chillies
   
 ## Instructions
--Serve it in a bowl, have fun!
+- Serve it in a bowl, have fun!
